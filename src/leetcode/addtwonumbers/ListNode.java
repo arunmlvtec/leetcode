@@ -1,5 +1,7 @@
 /**
- * Definition for singly-linked list.
+ * Definition for singly-linked list. As given in the leetcode problem.
+ * 
+ * 
  * */
 package leetcode.addtwonumbers;
 
