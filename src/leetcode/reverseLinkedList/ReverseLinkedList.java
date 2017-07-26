@@ -37,6 +37,7 @@ public class ReverseLinkedList {
 		nextNode.next = head;
 		head.next = null;
 		return newHead;
+		
 	}
 
 	public static void main(String[] args) {
